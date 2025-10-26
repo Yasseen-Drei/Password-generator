@@ -8,11 +8,11 @@ body {
 }
 
 #main {
-    max-width: 800px;
-    min-width: 500px;
+    max-width: 700px;
+    min-width: 400px;
     margin: 20px auto;
     background: #1F2937;
-    padding: 30px 60px;
+    padding: 10px 20px;
     border-radius: 20px;
     -moz-box-sizing: border-box; 
     -webkit-box-sizing: border-box; 
@@ -54,9 +54,10 @@ hr {
 
 .result-box {
     background: #273549;
-    min-width: 175px;
+    min-width: 150px;
     height: 35px;
     padding: 8px 16px;
+    text-align: center;
     color: #EFB619;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     -moz-box-sizing: border-box; 
